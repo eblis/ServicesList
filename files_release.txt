@@ -1,0 +1,1 @@
+ServicesList\win32\Release\*.dll
